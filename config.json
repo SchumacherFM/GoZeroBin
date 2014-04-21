@@ -1,0 +1,8 @@
+{
+    "MergeCSS": false,
+    "MergeJS": false,
+    "Version": "0.1",
+    "Ip": "127.0.0.1",
+    "Port": 8080,
+    "DataDir": "./data/"
+}
